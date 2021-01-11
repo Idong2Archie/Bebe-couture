@@ -1,0 +1,217 @@
+
+
+.qode-advanced-pricing-list .qode-apl-item .qode-apl-item-top .qode-apl-item-title {
+    font-size: 19px;
+    line-height: 27px;
+}
+
+.qode-advanced-pricing-list .qode-apl-item .qode-apl-item-top .qode-apl-item-price {
+    font-size: 19px;
+    line-height: 27px;
+}
+
+.q_icon_with_title.tiny .icon_holder img {
+    width: auto;
+}
+
+.q_icon_with_title.custom_icon_image.center .icon_holder {
+    margin: 0 0 18px;
+}
+
+.q_icon_with_title .icon_text_inner {
+    padding: 0 0 14px;
+}
+
+header:not(.with_hover_bg_color) nav.main_menu>ul>li:hover>a{
+    opacity: 1;
+}
+
+.eh-shadow{
+    box-shadow: 1px 2px 20px 0px rgba(0, 0, 0, 0.1);
+}
+
+.testimonials_c_holder .testimonial_content_inner {
+    background: transparent;
+}
+
+.testimonials_c_holder .testimonial_content_inner .testimonial_text_holder {
+    padding: 27px 0px 0px;
+}
+
+.testimonials_c_holder .testimonial_content_inner .testimonial_author {
+    margin-top: 41px;
+}
+
+.testimonials_c_holder .testimonial_content_inner .testimonial_title_holder h2{
+   color:#fff; 
+}
+
+.qode_video_box .qode_video_image .qode_video_box_button_arrow{
+    border-top-width: 8px;
+    border-left-width: 12px;
+    border-bottom-width: 8px;
+    left: 52%;
+}
+
+.q_icon_list {
+    margin-bottom: 16px;
+}
+
+@media only screen and (max-width: 600px){
+.testimonials_c_holder .testimonial_content_inner {
+    padding: 60px 0px;
+}
+}
+
+.qode-instagram-feed.qodef-scale-with-light-overlay a:after{
+    display: none;
+}
+
+@media only screen and (min-width: 1200px){
+    .footer_top .three_columns>.column1, .footer_top .three_columns>.column2, .footer_top .three_columns>.column3{
+        padding-right: 5%;
+        box-sizing: border-box;
+    }
+}
+
+.qode-workflow .qode-workflow-item {
+    max-width: 100%;
+}
+
+@media only screen and (max-width: 600px){
+.qode-workflow .qode-workflow-item .qode-workflow-item-inner .qode-workflow-image.left {
+    padding: 0px;
+}
+}
+
+
+.q_price_table .price_table_inner {
+    background-color: #fff;
+    border: 1px solid #e1e1e1;
+}
+
+.q_price_table{
+    color: #2b2b2b;
+}
+
+.q_price_table .price_table_inner ul li.table_title .title_content{
+    color: #3b3b3b;
+}
+
+.price_table_inner ul li.pricing_table_content li {
+    font-size: 16px;
+    color: #858585;
+}
+
+.price_in_table .price {
+    font-size: 63px;
+    line-height: 60px;
+    font-family: Playfair Display, sans-serif;
+    font-style: italic;
+}
+
+.price_in_table .value {
+    font-size: 22px;
+    font-family: Playfair Display, sans-serif;
+    font-style: italic;
+}
+
+.price_table_inner ul li.table_title {
+    padding: 48px 10px 22px;
+}
+
+.price_table_inner ul li.pricing_table_content {
+    padding: 33px 10px 22px;
+}
+
+.price_table_inner .price_button {
+    padding: 0 0 44px;
+}
+
+.price_in_table .mark {
+    text-transform: none;
+}
+
+.price_table_inner .price_button .qbutton:hover{
+    border-color: #3b3b3b;
+    background-color: #3b3b3b;
+}
+
+.price_in_table .mark{
+    top: -5px;
+}
+
+div.wpcf7-response-output.wpcf7-mail-sent-ok {
+    background-color: #B77A6D;
+}
+
+#back_to_top span i, #back_to_top span span {
+    font-size: 26px;
+    line-height: 48px;
+}
+
+@media only screen and (min-width: 1001px){
+    .qode_pricing_tables.four_columns .q_price_table:not(:first-child){
+        margin-left: 1.5%;
+    }
+
+    .qode_pricing_tables.four_columns .q_price_table{
+        width: 23.875%;
+    }
+}
+
+@media only screen and (max-width: 480px){
+    .qode-instagram-feed.qode-col-3 li{
+        width: 50%;
+    }
+    .qode-instagram-feed.qode-col-3 li img{
+        width: 100%;
+    }
+}
+
+.qode-instagram-feed li img{
+    width: 100%;
+}
+
+.page_not_found {
+    margin: 100px 0 83px;
+}
+
+.page_not_found p {
+    margin: 15px 8% 35px;
+}
+
+ul.qode_twitter_widget li {
+    margin-bottom: 20px;
+}
+
+.testimonials_holder .flex-direction-nav a:hover {
+    background-color: #b77a6d;
+}
+
+.testimonials_holder .flex-direction-nav a {
+    border: 1px solid #fff;
+}
+
+
+.testimonials_holder .flex-direction-nav a:before{
+    color: #fff;
+}
+
+.testimonials_holder .flex-direction-nav a:hover{
+    border-color: #B77A6D;
+    background-color: #B77A6D;
+}
+
+.testimonials_holder .flex-direction-nav a:hover:before{
+    color: #fff;
+}
+
+.testimonials .testimonial_text_inner p.testimonial_author {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.overlapping-row .section_inner{
+    z-index: 25;
+}
